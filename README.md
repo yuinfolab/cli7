@@ -1,5 +1,5 @@
 # Proje CLI7
-Python ile geliştirilmiş komut satırında çalışan Öğrenci Bilgilendirme Sistemi (obs.yeditepe.edu.tr)
+Python ile geliştirilmiş, komut satırında çalışan OBS (obs.yeditepe.edu.tr) portu.
 <pre>
 
                _   _ ______
