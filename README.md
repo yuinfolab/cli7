@@ -23,7 +23,7 @@ değişiklik, CLI7'nin işleyişini bozabilir. Bu durumda projenin kodlarını d
 * Öğrenci bilgilerini (CGPA, ECTS, Krediler gibi) komut satırından görebilme
 
 **GEREKSİNİMLER
-* >=Python 3.8
+* \>=Python 3.8
 * Urllib3 (pip3 install urllib3)
 * Requests (pip3 install requests)
 * Colorama (pip3 install colorama)
